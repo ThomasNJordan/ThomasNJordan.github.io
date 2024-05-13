@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Personal Projects (when I'm spending hours playing CTFs)
+description: Personal Projects (when I'm not spending hours playing CTFs)
 nav: true
 nav_order: 3
 horizontal: false
