@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Thomas Jordan",
-    "label": "Hacker",
     "image": "",
     "email": "thomas.noble.jordan@gmail.com",
     "url": "https://thomasnjordan.github.io//",
-    "summary": "Hacker and Puzzle Solver, I have extensive blue and red team experience.",
+    "summary": "Hacker and Puzzle Solver, I have extensive experience in information security.",
     "location": {
       "postalCode": "CA",
       "city": "Orange",
@@ -32,13 +31,13 @@
   },
   "work": [
     {
-      "name": "GCM Grosvenor",
-      "position": "Information Security Intern",
-      "url": "https://www.gcmgrosvenor.com/",
-      "startDate": "06-03-2024",
-      "endDate": "08-13-2024",
-      "summary": "Collaborated across multiple teams to document, investigate, and remediate incidents.",
-      "highlights": ["CIS 18 Framework, IDS/IPS, SIEM"]
+      "name": "Chapman University",
+      "position": "Research Assistant",
+      "url": "https://www.chapman.edu/",
+      "startDate": "11-23-2021",
+      "endDate": "10-01-2023",
+      "summary": "Designed statistical and Machine Learning models to predict the Remaining Useful Life of components in Turbojet engines.",
+      "highlights": ["TensorFlow, Jupyter, PyTorch"]
     },
     {
       "name": "Chapman University",
@@ -50,13 +49,13 @@
       "highlights": ["Microsoft Sentinel, Microsoft Suite"]
     },
     {
-      "name": "Chapman University",
-      "position": "Research Assistant",
-      "url": "https://www.chapman.edu/",
-      "startDate": "11-23-2021",
-      "endDate": "10-01-2023",
-      "summary": "Designed statistical and Machine Learning models to predict the Remaining Useful Life of components in Turbojet engines.",
-      "highlights": ["TensorFlow, Jupyter, PyTorch"]
+      "name": "GCM Grosvenor",
+      "position": "Information Security Intern",
+      "url": "https://www.gcmgrosvenor.com/",
+      "startDate": "06-03-2024",
+      "endDate": "08-13-2024",
+      "summary": "Collaborated across multiple teams to document, investigate, and remediate incidents.",
+      "highlights": ["CIS 18 Framework, IDS/IPS, SIEM"]
     }
   ],
   "education": [
@@ -65,7 +64,7 @@
       "location": "Orange, CA",
       "url": "https://www.chapman.edu/",
       "area": "Computer Science",
-      "studyType": "Bachelor's",
+      "studyType": "Bachelor of Science",
       "startDate": "09-2021",
       "endDate": "05-2025",
       "courses": [" Advanced Network Implementation and Security, Advanced Topics in Cybersecurity, Operating Systems, Technical Debt Mitigation, Python, C/C++ Programming"]
@@ -126,9 +125,19 @@
       "name": "Windows Malware Development",
       "summary": "Learned windows malware development by creating ransomware, a C2, and infrastructure that bypasses current EDR solutions. ",
       "highlights": ["Process Injection", "DLL Hijacking", "Ransomware", "C/C++", "MASM", "Python", "Windows API", "Red Team Infrastructure"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": "https://github.com/ThomasNJordan/MalwareDev"
+    },
+    {
+      "name": "SmallSIEM",
+      "summary": "A simple SIEM written in Python using a MySQL backend.",
+      "highlights": ["Python", "MySQL", "Logging", "Javascript"],
+      "url": "https://github.com/ThomasNJordan/SmallSIEM"
+    },
+    {
+      "name": "Phishing Demo",
+      "summary": "A sample phishing email for Indeed.com. Created as a learning exercise. Inspired by Practical Social Engineering by Joe Gray",
+      "highlights": ["Phishing", "Python", "Javascript"],
+      "url": "https://github.com/ThomasNJordan/PhishingExercise"
     }
   ]
 }
