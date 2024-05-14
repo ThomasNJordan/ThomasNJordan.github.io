@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank
-first_name: Thomas
-middle_name: N.
-last_name: Jordan
+first_name: Thomas Jordan
+middle_name: #
+last_name: #
 email: thomas.noble.jordan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My CV and online portfolio
