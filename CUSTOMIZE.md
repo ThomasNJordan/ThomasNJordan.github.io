@@ -13,11 +13,10 @@ The project is structured as follows, focusing on the main components that you w
 │       └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
 ├── 📄 _config.yml: the configuration file of the template
 ├── 📂 _data/: contains some of the data used in the template
-│   ├── 📄 cv.yml: CV in YAML format, used when assets/json/resume.json is not found
 │   └── 📄 repositories.yml: users and repositories info in YAML format
 ├── 📂 _layouts/: contains the layouts to choose from in the frontmatter of the Markdown files
 ├── 📂 _pages/: contains the pages of the website
-|   └── 📄 404.md: 404 page (page not found)
+│   └── 📄 404.md: 404 page (page not found)
 ├── 📂 _posts/: contains the blog posts
 ├── 📂 _projects/: contains the projects
 └── 📂 _sass/: contains the SASS files that define the style of the website
