@@ -16,6 +16,7 @@ https://github.com/ThomasNJordan/CryptoHack
   - [Catagories](#catagories)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Reflection](#reflection)
 
 ## General Info
 A collection of scripts, tools, and other resources I used while working through CryptoHack.org. All sciprts are written in Python 3
@@ -43,3 +44,6 @@ $ python3 -m pip install --upgrade pip
 $ python3 -m pip install --upgrade pwntools
 $ python3 -m pip install pyCryptoDome && pythohn3 -m pip install z3-solver
 ```
+
+## Reflection
+Cryptohack is a great website for learning more about cryptography, and it was a great opprotunity to expand my math background and get more hands-on experience with modern cryptography, and how it interacts with modern computing systems.

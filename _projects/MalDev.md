@@ -36,3 +36,6 @@ Please use this project and all related projects responsibly and ethically. Do n
 
 ## Demo
 https://youtu.be/_ZA50eKkgZY?si=l8eaqXpITQIngoGL
+
+## Reflection
+This was a difficult project that I am very proud of. I started with no background knowledge, and built up through hands-on learning. 
