@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ThomasNJordan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ThomasNJordan/MalwareDev
+  - ThomasNJordan/SmallSIEM
+  - ThomasNJordan/CryptoHack
+  - ThomasNJordan/PhishingExercise
+  - ThomasNJordan/SSHoney
