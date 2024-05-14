@@ -3,9 +3,11 @@ layout: page
 title: Malware Development
 description: This project is a collection of the code I wrote while learning windows malware development
 img: assets/img/ransomware.jpeg
-redirect: https://github.com/ThomasNJordan/MalwareDev
 importance: 1
 ---
+
+# Check it out
+https://github.com/ThomasNJordan/MalwareDev
 
 ## About
 Starting from knowing nothing about malware development, windows internals, or creating red team infrastructure; I ended up creating a piece of malware that can be used as a RAT, Ransomware, and even as a botnet. Each module covers a topic, and contains documented code snippets intended to help people who want a hands-on learning experience. 

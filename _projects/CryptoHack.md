@@ -3,16 +3,19 @@ layout: page
 title: CryptoHack Scripts
 description: This is a collection of scripts I wrote for cryptohack.org
 img: assets/img/cryptohack.png
-redirect: https://github.com/ThomasNJordan/CryptoHack
 importance: 3
 ---
 
+# Check it out
+https://github.com/ThomasNJordan/CryptoHack
+
 ## Table of contents
-- [Table of contents](#table-of-contents)
-- [General Info](#general-info)
-- [Catagories](#catagories)
-- [Setup](#setup)
-- [Prerequisites](#prerequisites)
+- [Check it out](#check-it-out)
+  - [Table of contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Catagories](#catagories)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
 
 ## General Info
 A collection of scripts, tools, and other resources I used while working through CryptoHack.org. All sciprts are written in Python 3
